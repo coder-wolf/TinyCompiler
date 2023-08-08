@@ -1,12 +1,12 @@
 # TinyCompiler
 
-### This is a BASIC → C compiler
+### A BASIC → C compiler
 
 __Usage:__
-```python teenytiny.py <filename>```
+```python compiler/teenytiny.py <filename>```
 
 __Example:__
-```python teenytiny.py hello.teeny```
+```python compiler/teenytiny.py hello.teeny```
 
 <br>
 
